@@ -1,0 +1,6 @@
+{
+  "name": "Xtremeclean | Limpieza Profunda a Domicilio",
+  "description": "Limpieza profunda a domicilio en Las Condes y el sector oriente: sofás, colchones, alfombras, piso flotante y cocinas con garantía de 3 días post secado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
